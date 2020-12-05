@@ -1,0 +1,8 @@
+---
+screens:
+  main:
+    strings:
+      welcome_title: "Hello There RELEASE"
+      welcome_subtitle: "This is the best Plugin for plugin generation RELEASE"
+      title: "Localisation Test App RELEASE"
+

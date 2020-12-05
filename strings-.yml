@@ -1,0 +1,40 @@
+---
+screens:
+  main:
+    strings:
+      welcome_title: "Hello There"
+      welcome_subtitle: "This is the best Plugin for plugin generation"
+      title: "Localisation Test App"
+    plurals:
+      posted_ago:
+        zero: "Just now"
+        one: "One min ago"
+        few: "Few min ago"
+        many: "Many min ago"
+        other: "Years ago"
+      users_typing:
+        zero: ""
+        one: "One user typing"
+        other: "One user typing"
+    arrays:
+      channels: [ "one","two" ]
+  login:
+    strings:
+      welcome_title: "Hello There"
+      welcome_subtitle: "This is the best Plugin for plugin generation"
+      title: "Localisation Test App"
+    plurals:
+      posted_ago:
+        zero: "Just now"
+        one: "One min ago"
+        few: "Few min ago"
+        many: "Many min ago"
+        other: "Years ago"
+      users_typing:
+        zero: ""
+        one: "One user typing"
+        other: "One user typing"
+    arrays:
+      channels: [ "one","two" ]
+
+
